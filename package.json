@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-app": "./node_modules/webpack/bin/webpack.js",
-    "start-app": "node ./server.js"
+    "build": "./node_modules/webpack/bin/webpack.js",
+    "start": "node server.js"
   },
   "author": "Marjan Mitev",
   "license": "MIT",
